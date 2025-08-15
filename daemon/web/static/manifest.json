@@ -1,0 +1,21 @@
+{ 
+
+  "name": "Rayhunter", 
+
+  "short_name": "Rayhunter", 
+
+  "start_url": "https://192.168.1.1:8443", 
+
+  "display": "standalone", 
+
+  "icons": [{ 
+
+    "src": "favicon.png", 
+
+    "sizes": "128x128", 
+
+    "type": "image/png" 
+
+  }] 
+
+}
